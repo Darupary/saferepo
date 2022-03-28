@@ -1,15 +1,14 @@
 {
       "name": "spammerbots",
       "description": "TELEGRAM FASTEST SPAMMERBOTS, Please give it a star  🥺  🥺  🥺 ",
-      "logo": "https://telegra.ph/file/0dbf23f76e6c77d037b42.jpg",
+      "logo": "https://telegra.ph/file/8ae588bb94ce114a044c3.jpg",
       "keywords": [
          "telegram",
          "Spam-Bot",
          "Spambot",
          "Telethon",
-         "Gladiators"
       ],   
-   "repository": "https://t.me/Gladiators_Support",
+   "repository": "none",
    "addons": [
       {
          "options": {
@@ -75,7 +74,7 @@
       },
       "ALIVE_MEDIA": {
          "description": "Telegraph link of pic/gif/video to be displayed in alive command.",
-         "value": "https://telegra.ph/file/ec3c057fcba5594151601.jpg",
+         "value": "https://telegra.ph/file/8ae588bb94ce114a044c3.jpg",
          "required": true
       },
       "String_Session01": {
