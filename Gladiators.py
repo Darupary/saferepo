@@ -25,16 +25,12 @@ from dossier import HNDLR as hn
 from worker.verses import replies, curses
 from helpmenu import spam_menu, curse_menu, sudo_menu, dev_menu, acc_menu, help_menu, alive_temxt, glad_logo, start_caption, start_caption1, devusage, sudousage, spamusage, accusage
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/8ae588bb94ce114a044c3.jpg"
 
 buttons = [
     [
-        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Gladiators_Projects")),
-        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
-    ],
-    [
-        (Button.url("Rᴇᴘᴏ", url="https://github.com/Gladiators-Projects/spammerbots")),
-        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Gladiators_Projects/36"))
+        (Button.url("Rᴇᴘᴏ", url="xnxx.com")),
+       
     ]
 ]
 
@@ -187,10 +183,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 01!")
             await Bot1.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot1(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
-            await Bot1(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
+            await Bot1(functions.channels.JoinChannelRequest(channel="@A2edutech"))
         except:
             try:
                 print("Got String Session 01!")
@@ -213,10 +209,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 02!")
             await Bot2.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot2(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot2(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot2(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 02!")
@@ -239,10 +235,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 03!")
             await Bot3.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot3(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot3(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot3(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 03!")
@@ -265,10 +261,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 04!")
             await Bot4.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot4(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot4(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot4(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 04!")
@@ -291,10 +287,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 05!")
             await Bot5.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot5(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot5(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot5(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 05!")
@@ -317,10 +313,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 06!")
             await Bot6.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot6(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot6(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot6(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 06!")
@@ -343,10 +339,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 07!")
             await Bot7.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot7(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot7(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot7(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 07!")
@@ -369,10 +365,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 08!")
             await Bot8.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot8(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot8(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot8(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 08!")
@@ -395,10 +391,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 09!")
             await Bot9.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot9(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot9(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot9(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 09!")
@@ -421,10 +417,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 10!")
             await Bot10.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot10(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot10(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot10(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 10!")
@@ -447,10 +443,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 11!")
             await Bot11.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot11(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot11(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot11(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 11!")
@@ -473,10 +469,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 12!")
             await Bot12.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot12(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot12(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot12(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 12!")
@@ -499,10 +495,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 13!")
             await Bot13.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot13(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot13(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot13(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 13!")
@@ -525,10 +521,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 14!")
             await Bot14.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot14(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot14(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot14(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 14!")
@@ -551,10 +547,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 15!")
             await Bot15.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot15(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot15(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot15(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 15!")
@@ -577,10 +573,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 16!")
             await Bot16.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot16(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot16(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot16(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 16!")
@@ -603,10 +599,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 17!")
             await Bot17.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot17(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot17(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot17(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 17!")
@@ -629,10 +625,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 18!")
             await Bot18.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot18(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot18(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot18(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 18!")
@@ -655,10 +651,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 19!")
             await Bot19.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot19(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot19(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot19(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 19!")
@@ -681,10 +677,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 20!")
             await Bot20.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot20(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot20(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot20(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 20!")
@@ -707,10 +703,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 21!")
             await Bot21.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot21(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot21(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot21(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 21!")
@@ -733,10 +729,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 22!")
             await Bot22.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot22(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot22(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot22(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 22!")
@@ -759,10 +755,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 23!")
             await Bot23.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot23(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot23(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot23(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 23!")
@@ -785,10 +781,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 24!")
             await Bot24.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot24(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot24(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot24(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 24!")
@@ -811,10 +807,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 25!")
             await Bot25.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot25(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot25(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot25(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 25!")
@@ -837,10 +833,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 26!")
             await Bot26.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot26(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot26(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot26(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 26!")
@@ -863,10 +859,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 27!")
             await Bot27.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot27(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot27(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot27(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 27!")
@@ -889,10 +885,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 28!")
             await Bot28.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot28(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot28(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot28(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 28!")
@@ -915,10 +911,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 29!")
             await Bot29.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot29(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot29(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot29(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 29!")
@@ -941,10 +937,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 30!")
             await Bot30.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot30(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot30(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot30(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 30!")
@@ -967,10 +963,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 31!")
             await Bot31.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot31(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot31(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot31(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 31!")
@@ -993,10 +989,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 32!")
             await Bot32.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot32(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot32(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot32(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 32!")
@@ -1019,10 +1015,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 33!")
             await Bot33.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot33(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot33(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot33(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 33!")
@@ -1045,10 +1041,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 34!")
             await Bot34.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot34(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot34(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot34(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 34!")
@@ -1071,10 +1067,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 35!")
             await Bot35.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot35(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot35(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot35(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 35!")
@@ -1097,10 +1093,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 36!")
             await Bot36.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot36(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot36(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot36(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 36!")
@@ -1123,10 +1119,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 37!")
             await Bot37.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot37(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot37(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot37(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 37!")
@@ -1149,10 +1145,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 38!")
             await Bot38.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot38(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot38(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot38(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 38!")
@@ -1175,10 +1171,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 39!")
             await Bot39.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot39(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot39(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot39(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 39!")
@@ -1201,10 +1197,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 40!")
             await Bot40.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot40(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot40(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot40(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 40!")
@@ -1226,10 +1222,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 41!")
             await Bot41.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot41(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot41(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot41(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 41!")
@@ -1252,10 +1248,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 42!")
             await Bot42.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot42(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot42(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot42(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 42!")
@@ -1278,10 +1274,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 43!")
             await Bot43.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot43(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot43(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot43(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 43!")
@@ -1304,10 +1300,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 44!")
             await Bot44.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot44(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot44(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot44(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 44!")
@@ -1330,10 +1326,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 45!")
             await Bot45.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot45(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot45(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot45(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 45!")
@@ -1356,10 +1352,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 46!")
             await Bot46.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot46(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot46(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot46(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 46!")
@@ -1382,10 +1378,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 47!")
             await Bot47.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot47(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot47(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot47(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 47!")
@@ -1408,10 +1404,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 48!")
             await Bot48.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot48(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot48(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot48(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 48!")
@@ -1434,10 +1430,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 49!")
             await Bot49.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot49(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot49(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot49(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 49!")
@@ -1460,10 +1456,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 50!")
             await Bot50.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot50(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot50(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot50(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 50!")
@@ -1485,10 +1481,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 51!")
             await Bot51.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot51(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot51(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot51(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 51!")
@@ -1511,10 +1507,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 52!")
             await Bot52.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot52(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot52(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot52(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 52!")
@@ -1537,10 +1533,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 53!")
             await Bot53.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot53(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot53(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot53(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 53!")
@@ -1563,10 +1559,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 54!")
             await Bot54.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot54(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot54(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot54(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 54!")
@@ -1589,10 +1585,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 55!")
             await Bot55.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot55(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot55(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot55(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 55!")
@@ -1615,10 +1611,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 56!")
             await Bot56.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot56(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot56(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot56(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 56!")
@@ -1641,10 +1637,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 57!")
             await Bot57.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot57(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot57(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot57(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 57!")
@@ -1667,10 +1663,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 58!")
             await Bot58.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot58(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot58(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot58(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 58!")
@@ -1693,10 +1689,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 59!")
             await Bot59.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot59(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot59(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot59(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 59!")
@@ -1719,10 +1715,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 60!")
             await Bot60.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot60(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot60(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot60(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 60!")
@@ -1744,10 +1740,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 61!")
             await Bot61.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot61(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot61(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot61(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 61!")
@@ -1770,10 +1766,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 62!")
             await Bot62.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot62(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot62(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot62(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 62!")
@@ -1796,10 +1792,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 63!")
             await Bot63.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot63(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot63(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot63(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 63!")
@@ -1822,10 +1818,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 64!")
             await Bot64.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot64(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot64(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot64(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 64!")
@@ -1848,10 +1844,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 65!")
             await Bot65.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot65(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot65(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot65(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 65!")
@@ -1874,10 +1870,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 66!")
             await Bot66.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot66(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot66(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot66(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 66!")
@@ -1900,10 +1896,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 67!")
             await Bot67.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot67(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot67(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot67(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 67!")
@@ -1926,10 +1922,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 68!")
             await Bot68.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot68(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot68(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot68(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 68!")
@@ -1952,10 +1948,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 69!")
             await Bot69.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot69(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot69(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot69(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 69!")
@@ -1978,10 +1974,10 @@ async def gladiators_bots():
         try:
             print("Got String Session 70!")
             await Bot70.start()
-            mat = "https://t.me/Gladiators_Projects"
+            mat = "@A2edutech"
             await Bot70(functions.channels.JoinChannelRequest(channel=mat))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Army"))
-            await Bot70(functions.channels.JoinChannelRequest(channel="@Gladiators_Spam"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@A2edutech"))
+            await Bot70(functions.channels.JoinChannelRequest(channel="@Baapjiiiiiiiiii"))
         except:
             try:
                 print("Got String Session 10!")
@@ -2008,13 +2004,7 @@ loop.run_until_complete(gladiators_bots())
 
 
 ##########################################################################################################################
-# Defining every function here + fellows list
-
-# prettyjson
-# TeamArsenic_time
-# ifgif
-
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 
@@ -2065,7 +2055,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 fellows = {}
@@ -2169,7 +2159,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 
@@ -2787,7 +2777,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -2956,7 +2946,7 @@ async def curse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -2976,7 +2966,7 @@ async def curse(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3107,7 +3097,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Baapjiiiiiiiiii crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     for i in range(counter):
                         curmse = random.choice(curses)
@@ -3116,7 +3106,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Baapjiiiiiiiiii crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3238,7 +3228,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Baapjiiiiiiiiii crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     xd = 0
                     while xd == 0:
@@ -3248,7 +3238,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @Baapjiiiiiiiiii crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3340,7 +3330,7 @@ async def ucurse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3360,7 +3350,7 @@ async def ucurse(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3461,7 +3451,7 @@ async def replycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3480,7 +3470,7 @@ async def replycurse(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"I can't betray @TeamGladiators's crew."
+                text = f"I can't betray @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -3581,7 +3571,7 @@ async def dreplycurse(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 try:
@@ -3600,7 +3590,7 @@ async def dreplycurse(e):
             user_id = int(user_idd)
             name = umser.first_name
             if int(user_id) in crew:
-                text = f"Never started reply and curse on @TeamGladiators's crew."
+                text = f"Never started reply and curse on @Baapjiiiiiiiiii's crew."
                 await e.reply(text, parse_mode=None, link_preview=None )
             else:
                 gey = fellows.get(user_id)
@@ -3617,7 +3607,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 
@@ -3702,7 +3692,7 @@ async def gtping(e):
         ping_end = datetime.now()
         ms = (ping_end-ping_start).microseconds / 1000
         uptime = TeamArsenic_time((time.time() - StartTime) * 1000)
-        ping_msg = f"•• Pᴏɴɢ . ••\n⏱ Pɪɴɢ sᴘᴇᴇᴅ : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
+        ping_msg = f"•• Pᴏɴɢ . ••\n⏱🅑🅐🅐🅟 🅙🅘🅘 🔥 : {ms}ᴍs\n⏳ Uᴘᴛɪᴍᴇ - {uptime}"
         await v.edit(ping_msg)
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%salive(?: |$)(.*)" % hn))
@@ -3795,7 +3785,7 @@ async def alive(e):
 # usage
 
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 
@@ -3874,18 +3864,18 @@ async def leave(e):
         chamt = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             chamt_id = int(chamt[0])
-            await e.reply("*Moves to door...*")
+            await e.reply("*kalpa dia salo ko😆😂*")
             try:
                 await e.client(LeaveChannelRequest(chamt_id))
-                await e.edit("*Silently left...*")
+                await e.edit("*kalpa dia salo ko😆😂*")
             except Exception as eror:
                 await e.edit(str(eror))
         else:
             chamt_id = e.chat_id
-            await e.reply("*Moves to door...*")
+            await e.reply("*kalpa dia salo ko😆😂*")
             try:
                 await e.client(LeaveChannelRequest(chamt_id))
-                await e.edit("*Silently left!*")
+                await e.edit("*kalpa dia salo ko😆😂*")
             except Exception as eror:
                 await e.edit(str(eror))
     elif e.sender_id in SUDO_USERS:
@@ -3994,7 +3984,6 @@ async def _(dyno):
         "logs.txt",
         reply_to=dyno.id,
         force_document=True,
-        thumb="resources/Gladiators.jpeg",
         caption="@Gladiators_Projects spammerbots logs.",
     )
 
@@ -4147,7 +4136,7 @@ async def dyno_usage(dyno):
 
 
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 
@@ -4242,7 +4231,7 @@ async def alive(e):
 #BIO
 
 
-# @TeamGladiators
+# @Baapjiiiiiiiiii
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -4592,12 +4581,12 @@ async def _(e):
         dattext = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 6:
             chash = dattext[0]
-            text = "Roger that...\nI'm on it."
+            text = "joining...\nI'm on it."
             try:
                 await e.client(functions.channels.JoinChannelRequest(channel=chash))
                 event = await e.reply(text, parse_mode=None, link_preview=None )
                 await asyncio.sleep(0.7)
-                await event.edit("Joined the chat successfully\nOver!")
+                await event.edit("Baap jii op ❤️Joined\nOver!")
             except Exception as e:
                 await print(str(e))   
         else:
@@ -4682,7 +4671,7 @@ async def _(e):
         dattext = ("".join(e.text.split(maxsplit=1)[1:])).split(" ", 1)
         if len(e.text) > 7:
             chash = dattext[0]
-            text = "Roger that...\nI'm on it."
+            text = "private me chipa hai bc...\nI'm on it."
             try:
                 await e.client(ImportChatInviteRequest(chash))
                 event = await e.reply(text, parse_mode=None, link_preview=None )
@@ -4695,8 +4684,8 @@ async def _(e):
 
 ##########################################################################################################################
 ###################################################### UPDATE ############################################################
-REPO_REMOTE_NAME = "gladtemp"
-OFFICIAL_UPSTREAM_REPO = "https://github.com/Gladiators-Projects/spammerbots"
+REPO_REMOTE_NAME = "🅑🅐🅐🅟 🅙🅘🅘"
+OFFICIAL_UPSTREAM_REPO = "https://telegra.ph/file/8ae588bb94ce114a044c3.jpg"
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%supdate(?: |$)(.*)" % hn))
 async def update(e):
@@ -4733,7 +4722,7 @@ async def update(e):
         await message.edit("`Updation in Progress......`")
         await asyncio.sleep(5)
 
-    message_one = "Found one update!\nAuthor: @TeamGladiators\nChangelog:\n{changelog}".format(changelog=changelog)
+    message_one = "Found one update!\nAuthor: @Baapjiiiiiiiiii\nChangelog:\n{changelog}".format(changelog=changelog)
     message_two = "New update found for {gladbranch} branch.\n".format(gladbranch=glad_branch)
 
     if len(message_one) > 4095:
@@ -4863,10 +4852,6 @@ async def update(e):
 async def _(e):
     if e.sender_id in DEV_USERS:
         reboot_text = """
-╔══╗─────╔╦╗──╔╗────╔═╗
-║╔═╬╗╔═╗╔╝╠╬═╗║╚╦═╦╦╣═╣
-║╚╗║╚╣╬╚╣╬║║╬╚╣╔╣╬║╔╬═║
-╚══╩═╩══╩═╩╩══╩═╩═╩╝╚═╝
 
 Rᴇʙᴏᴏᴛɪɴɢ ʙᴏᴛ...
 
@@ -5160,18 +5145,13 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
 ##########################################################################################################################
 
 gladtext = """
-  ________.__              .___.__        __                       
- /  _____/|  | _____     __| _/|__|____ _/  |_  ___________  ______
-/   \  ___|  | \__  \   / __ | |  \__  \\   __\/  _ \_  __ \/  ___/
-\    \_\  \  |__/ __ \_/ /_/ | |  |/ __ \|  | (  <_> )  | \/\___ \ 
- \______  /____(____  /\____ | |__(____  /__|  \____/|__|  /____  >
-        \/          \/      \/         \/                       \/ 
+
 """
 print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting Gladiators Spammerbots...")
+print("Starting 🅑🅐🅐🅟 🅙🅘🅘 Spammerbots...")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
