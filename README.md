@@ -1,29 +1,11 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--This Bot is Made By 🅑🅐🅐🅟 🅙🅘🅘 🔥 🅑🅞🅣🅢-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
+  <img src="https://telegra.ph/file/8ae588bb94ce114a044c3.jpg" alt="Logo">
 </p>
-
-### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
-  <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
-  [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
-
-### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-  
 
 ### 🎆Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/spammerbots)
-
-
-### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
-  
-  [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Acinonyx/Telethon-Bot-Session#sessiongen.py)
-
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darupary/saferepo)
 
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
 
